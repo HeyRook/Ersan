@@ -75,19 +75,24 @@ After making changes, sync them back to GitHub:
 
 Install these extensions to improve your workflow:
 
-1. **Git Extension Pack**
-   - Better Git integration
-   - Visual diff tools
-
-2. **GitHub Pull Requests and Issues**
+1. **GitHub Pull Requests and Issues**
    - Manage GitHub directly from VS Code
+   - View and create pull requests
 
-3. **GitLens**
+2. **GitLens**
    - Enhanced Git capabilities
    - See commit history inline
+   - Blame annotations
 
-4. **Live Share** (Optional)
-   - Collaborate with others in real-time
+3. **Git Graph**
+   - Visualize your repository's Git graph
+   - Easy branch management
+
+4. **Git History**
+   - View and search Git log
+   - Compare branches and commits
+
+When you open this project in VS Code, it will automatically suggest installing these extensions!
 
 ## Daily Workflow
 
